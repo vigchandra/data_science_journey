@@ -18,7 +18,7 @@
 **Supervised learning**
   1. Deep learning
       Neural networks
-        [Introduction - 3Blue1Brown's But what is a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+        - [Introduction - 3Blue1Brown's But what is a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)  
         [Gradient descent, how neural networks learn 3Blue1Brown's](https://www.youtube.com/watch?v=IHZwWFHWa-w&index=2&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
   
 
