@@ -9,7 +9,9 @@ List of links for the following topics:
     - [Beginner's guide to Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)  
     - [Common dataframe operations](https://towardsdatascience.com/21-pandas-operations-for-absolute-beginners-5653e54f4cda) 
   3. Missing values:  
-    - [Dealing with missing values in Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/missing_data.html) 
-    - [the Python Data Science Handbook by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/03.04-missing-values.html)
+    - [Dealing with missing values in Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/missing_data.html)   
+    - [the Python Data Science Handbook by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/03.04-missing-values.html)   
+  4. Date times
+    - [Working with date time formats in Python](https://jakevdp.github.io/PythonDataScienceHandbook/03.11-working-with-time-series.html)
   
 
