@@ -8,7 +8,7 @@ List of links for the following topics:
     - [Common mistakes](https://nikgrozev.com/2015/07/01/reshaping-in-pandas-pivot-pivot-table-stack-and-unstack-explained-with-pictures/)  
     - [Beginner's guide to Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)  
     - [Common dataframe operations](https://towardsdatascience.com/21-pandas-operations-for-absolute-beginners-5653e54f4cda) 
-  3. Missing values :
+  3. Missing values:  
     - [Dealing with missing values in Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/missing_data.html) 
     - [the Python Data Science Handbook by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/03.04-missing-values.html)
   
